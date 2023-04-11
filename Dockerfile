@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM theteamultroid/ultroid:main
 
 COPY . .
 RUN bash a.sh
