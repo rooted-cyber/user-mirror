@@ -1,0 +1,26 @@
+{
+    "name": "Telegram",
+    "description": "You know what it does...",
+    "logo": "https://graph.org/file/0877f95770f909dd457f0.jpg",
+    "keywords": [
+        "Telethon",
+        "telegram",
+        "python"
+    ],
+    "repository": "https://github.com/",
+    "success_url": "https://t.me/rootedcyber",
+    "stack": "container",
+    "env": {
+        "BOT_NAME": {
+            "description": "Name of your bot",
+            "value": "mirror-bot",
+            "required": false
+        }
+    },
+    "formation": {
+        "rootedcyber": {
+            "quantity": 1,
+            "size": "standard-2x"
+        }
+    }
+}
