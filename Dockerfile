@@ -1,4 +1,4 @@
 FROM anasty17/mltb:latest
 
 COPY . .
-bash a.sh
+RUN bash a.sh
