@@ -1,6 +1,6 @@
 # Vps installation
 ```
-apt install git python python-pip -y;git clone https://github.com/rooted-cyber/user-mirror
+apt install git python3 python3-pip -y;git clone https://github.com/rooted-cyber/user-mirror
 cd user*
 bash a.sh
 ```
